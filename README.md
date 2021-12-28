@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Raúl, a software engineer and product manager with field expertise in quantum computing and beyond.
+I'm Raúl, a software engineer and product manager with application domain expertise in quantum computing and beyond.
 
 **Now**
 
